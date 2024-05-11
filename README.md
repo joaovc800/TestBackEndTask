@@ -68,6 +68,10 @@
    ```bash
    php artisan db:seed
 
+3. Run application server
+    ```bash
+    php artisan serve
+    
 ## Default User
 
 After running the seeds, the following default user will be created:
